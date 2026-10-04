@@ -15,5 +15,5 @@ An end-to-end data analysis and cleaning project using **Python** to uncover the
 
 ## ⚙️ Tech Stack
 * **Language/Environment**: Python | Jupyter Notebook
-* **Libraries**: Pandas | NumPy | Seaborn | Matplotlib (`darkgrid` theme)
-*
+* **Libraries**: Pandas | NumPy | Seaborn | Matplotlib
+
