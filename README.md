@@ -1,6 +1,6 @@
 # 📊 Used Car Market Analysis & Resale Valuation Insights
 
-This project performs comprehensive exploratory data analysis (EDA) and rigorous data cleaning on a global used vehicle market dataset containing **7,251 rows**. The primary objective is to investigate the core factors—such as brand equity, age, fuel type, and transmission—that dictate secondary market vehicle valuation.
+This project performs comprehensive exploratory data analysis (EDA) and rigorous data cleaning on a global used vehicle market dataset containing **7,200+ rows**. The primary objective is to investigate the core factors—such as brand equity, age, fuel type, and transmission—that dictate secondary market vehicle valuation.
 
 Through meticulous outlier mitigation and feature construction, the final dataset has been brought to a **100% complete state (zero missing values)**, leaving it perfectly optimized for analytical reporting or predictive machine learning deployment.
 
